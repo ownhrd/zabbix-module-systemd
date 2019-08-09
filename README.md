@@ -1,4 +1,4 @@
-# Native Zabbix systemd monitoring [![Build Status](https://travis-ci.org/cavaliercoder/zabbix-module-systemd.svg?branch=master)](https://travis-ci.org/cavaliercoder/zabbix-module-systemd)
+# Native Zabbix systemd monitoring [![Build Status](https://travis-ci.org/ownhrd/zabbix-module-systemd.svg?branch=master)](https://travis-ci.org/ownhrd/zabbix-module-systemd)
 
 Zabbix module that enables Zabbix to query the systemd D-Bus API for native and
 granular system state monitoring + relative cgroup (CPU, MEM, IO, ...) metrics.
