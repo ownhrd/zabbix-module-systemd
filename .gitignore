@@ -2,6 +2,7 @@ __pycache__/
 .deps/
 .libs/
 .vscode/
+.idea/
 *.build
 *.changes
 *.deb
